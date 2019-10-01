@@ -12,7 +12,7 @@ You can give the repository a name, a short description, and select "Initialize 
 
 
 Definitions:                                                               
-GIT: The revision control system for GITHUB that can manage source code history                         
+GIT: The revision control system for GITHUB that can manage source code history. You have to download GIT manually on your computer     
 
 GITHUB: An open source control system that allows multiple people to work on the same document and keep track of changes to source code or documents             
 
