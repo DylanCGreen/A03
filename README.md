@@ -35,3 +35,8 @@ Merge Conflict: Occurs when a user tries merging two branches that have competin
 Fetch: Allows the user to get the most recent changes without merging them in.        
 
 Remote: Something that is hosted over a server.               
+
+Sources:             
+https://guides.github.com/activities/hello-world/                    
+
+https://help.github.com/en/articles/github-glossary           
